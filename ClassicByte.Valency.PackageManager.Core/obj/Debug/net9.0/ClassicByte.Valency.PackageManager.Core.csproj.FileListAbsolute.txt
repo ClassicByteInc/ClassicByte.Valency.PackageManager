@@ -1,0 +1,12 @@
+/mnt/c/Users/shimikoi/.ClassicByte/Workspace/ValencyProject/ClassicByte.Valency.PackageManager/ClassicByte.Valency.PackageManager.Core/bin/Debug/net9.0/ClassicByte.Valency.PackageManager.Core.deps.json
+/mnt/c/Users/shimikoi/.ClassicByte/Workspace/ValencyProject/ClassicByte.Valency.PackageManager/ClassicByte.Valency.PackageManager.Core/bin/Debug/net9.0/ClassicByte.Valency.PackageManager.Core.dll
+/mnt/c/Users/shimikoi/.ClassicByte/Workspace/ValencyProject/ClassicByte.Valency.PackageManager/ClassicByte.Valency.PackageManager.Core/bin/Debug/net9.0/ClassicByte.Valency.PackageManager.Core.pdb
+/mnt/c/Users/shimikoi/.ClassicByte/Workspace/ValencyProject/ClassicByte.Valency.PackageManager/ClassicByte.Valency.PackageManager.Core/obj/Debug/net9.0/ClassicByte.Valency.PackageManager.Core.csproj.AssemblyReference.cache
+/mnt/c/Users/shimikoi/.ClassicByte/Workspace/ValencyProject/ClassicByte.Valency.PackageManager/ClassicByte.Valency.PackageManager.Core/obj/Debug/net9.0/ClassicByte.Valency.PackageManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/shimikoi/.ClassicByte/Workspace/ValencyProject/ClassicByte.Valency.PackageManager/ClassicByte.Valency.PackageManager.Core/obj/Debug/net9.0/ClassicByte.Valency.PackageManager.Core.AssemblyInfoInputs.cache
+/mnt/c/Users/shimikoi/.ClassicByte/Workspace/ValencyProject/ClassicByte.Valency.PackageManager/ClassicByte.Valency.PackageManager.Core/obj/Debug/net9.0/ClassicByte.Valency.PackageManager.Core.AssemblyInfo.cs
+/mnt/c/Users/shimikoi/.ClassicByte/Workspace/ValencyProject/ClassicByte.Valency.PackageManager/ClassicByte.Valency.PackageManager.Core/obj/Debug/net9.0/ClassicByte.Valency.PackageManager.Core.csproj.CoreCompileInputs.cache
+/mnt/c/Users/shimikoi/.ClassicByte/Workspace/ValencyProject/ClassicByte.Valency.PackageManager/ClassicByte.Valency.PackageManager.Core/obj/Debug/net9.0/ClassicByte.Valency.PackageManager.Core.dll
+/mnt/c/Users/shimikoi/.ClassicByte/Workspace/ValencyProject/ClassicByte.Valency.PackageManager/ClassicByte.Valency.PackageManager.Core/obj/Debug/net9.0/refint/ClassicByte.Valency.PackageManager.Core.dll
+/mnt/c/Users/shimikoi/.ClassicByte/Workspace/ValencyProject/ClassicByte.Valency.PackageManager/ClassicByte.Valency.PackageManager.Core/obj/Debug/net9.0/ClassicByte.Valency.PackageManager.Core.pdb
+/mnt/c/Users/shimikoi/.ClassicByte/Workspace/ValencyProject/ClassicByte.Valency.PackageManager/ClassicByte.Valency.PackageManager.Core/obj/Debug/net9.0/ref/ClassicByte.Valency.PackageManager.Core.dll
