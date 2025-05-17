@@ -252,7 +252,6 @@ public class MainCore
     build   构造一个 Valency 应用程序包（有关文档请向其传递帮助参数“--help”）
     download 下载指定包");
 
-        Out.WriteLine($"我们使用的目录：{UtilPath.Workspace.FullName}");
     }
 
     /// <summary>
