@@ -401,3 +401,5 @@ FodyWeavers.xsd
 *.sln.iml
 
 ./obj/
+./ClassicByte.Valency.PackageManager/obj/
+./ClassicByte.Valency.PackageManager.Core/obj/
