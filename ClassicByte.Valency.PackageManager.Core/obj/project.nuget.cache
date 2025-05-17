@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Scy7+LBfRTs=",
+  "dgSpecHash": "FexpeSNDlcc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\shimikoi\\.ClassicByte\\Workspace\\ValencyProject\\ClassicByte.Valency.PackageManager\\ClassicByte.Valency.PackageManager.Core\\ClassicByte.Valency.PackageManager.Core.csproj",
+  "projectFilePath": "/home/higashitaniyume/ClassicByte/Workspace/Github/ClassicByte.Valency.PackageManager/ClassicByte.Valency.PackageManager.Core/ClassicByte.Valency.PackageManager.Core.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\shimikoi\\.nuget\\packages\\yamldotnet\\16.3.0\\yamldotnet.16.3.0.nupkg.sha512"
+    "/home/higashitaniyume/.nuget/packages/yamldotnet/16.3.0/yamldotnet.16.3.0.nupkg.sha512"
   ],
   "logs": []
 }

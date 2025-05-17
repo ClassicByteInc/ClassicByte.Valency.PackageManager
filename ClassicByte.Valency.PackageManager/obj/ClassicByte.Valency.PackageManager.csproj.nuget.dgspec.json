@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shimikoi\\.ClassicByte\\Workspace\\ValencyProject\\ClassicByte.Valency.PackageManager\\ClassicByte.Valency.PackageManager\\ClassicByte.Valency.PackageManager.csproj": {}
+    "/home/higashitaniyume/ClassicByte/Workspace/Github/ClassicByte.Valency.PackageManager/ClassicByte.Valency.PackageManager/ClassicByte.Valency.PackageManager.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shimikoi\\.ClassicByte\\Workspace\\ValencyProject\\ClassicByte.Valency.PackageManager\\ClassicByte.Valency.PackageManager.Core\\ClassicByte.Valency.PackageManager.Core.csproj": {
+    "/home/higashitaniyume/ClassicByte/Workspace/Github/ClassicByte.Valency.PackageManager/ClassicByte.Valency.PackageManager.Core/ClassicByte.Valency.PackageManager.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shimikoi\\.ClassicByte\\Workspace\\ValencyProject\\ClassicByte.Valency.PackageManager\\ClassicByte.Valency.PackageManager.Core\\ClassicByte.Valency.PackageManager.Core.csproj",
+        "projectUniqueName": "/home/higashitaniyume/ClassicByte/Workspace/Github/ClassicByte.Valency.PackageManager/ClassicByte.Valency.PackageManager.Core/ClassicByte.Valency.PackageManager.Core.csproj",
         "projectName": "ClassicByte.Valency.PackageManager.Core",
-        "projectPath": "C:\\Users\\shimikoi\\.ClassicByte\\Workspace\\ValencyProject\\ClassicByte.Valency.PackageManager\\ClassicByte.Valency.PackageManager.Core\\ClassicByte.Valency.PackageManager.Core.csproj",
-        "packagesPath": "C:\\Users\\shimikoi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shimikoi\\.ClassicByte\\Workspace\\ValencyProject\\ClassicByte.Valency.PackageManager\\ClassicByte.Valency.PackageManager.Core\\obj\\",
+        "projectPath": "/home/higashitaniyume/ClassicByte/Workspace/Github/ClassicByte.Valency.PackageManager/ClassicByte.Valency.PackageManager.Core/ClassicByte.Valency.PackageManager.Core.csproj",
+        "packagesPath": "/home/higashitaniyume/.nuget/packages/",
+        "outputPath": "/home/higashitaniyume/ClassicByte/Workspace/Github/ClassicByte.Valency.PackageManager/ClassicByte.Valency.PackageManager.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\shimikoi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/higashitaniyume/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -65,21 +65,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\shimikoi\\.ClassicByte\\Workspace\\ValencyProject\\ClassicByte.Valency.PackageManager\\ClassicByte.Valency.PackageManager\\ClassicByte.Valency.PackageManager.csproj": {
+    "/home/higashitaniyume/ClassicByte/Workspace/Github/ClassicByte.Valency.PackageManager/ClassicByte.Valency.PackageManager/ClassicByte.Valency.PackageManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shimikoi\\.ClassicByte\\Workspace\\ValencyProject\\ClassicByte.Valency.PackageManager\\ClassicByte.Valency.PackageManager\\ClassicByte.Valency.PackageManager.csproj",
+        "projectUniqueName": "/home/higashitaniyume/ClassicByte/Workspace/Github/ClassicByte.Valency.PackageManager/ClassicByte.Valency.PackageManager/ClassicByte.Valency.PackageManager.csproj",
         "projectName": "ClassicByte.Valency.PackageManager",
-        "projectPath": "C:\\Users\\shimikoi\\.ClassicByte\\Workspace\\ValencyProject\\ClassicByte.Valency.PackageManager\\ClassicByte.Valency.PackageManager\\ClassicByte.Valency.PackageManager.csproj",
-        "packagesPath": "C:\\Users\\shimikoi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shimikoi\\.ClassicByte\\Workspace\\ValencyProject\\ClassicByte.Valency.PackageManager\\ClassicByte.Valency.PackageManager\\obj\\",
+        "projectPath": "/home/higashitaniyume/ClassicByte/Workspace/Github/ClassicByte.Valency.PackageManager/ClassicByte.Valency.PackageManager/ClassicByte.Valency.PackageManager.csproj",
+        "packagesPath": "/home/higashitaniyume/.nuget/packages/",
+        "outputPath": "/home/higashitaniyume/ClassicByte/Workspace/Github/ClassicByte.Valency.PackageManager/ClassicByte.Valency.PackageManager/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\shimikoi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/higashitaniyume/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -91,8 +91,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\shimikoi\\.ClassicByte\\Workspace\\ValencyProject\\ClassicByte.Valency.PackageManager\\ClassicByte.Valency.PackageManager.Core\\ClassicByte.Valency.PackageManager.Core.csproj": {
-                "projectPath": "C:\\Users\\shimikoi\\.ClassicByte\\Workspace\\ValencyProject\\ClassicByte.Valency.PackageManager\\ClassicByte.Valency.PackageManager.Core\\ClassicByte.Valency.PackageManager.Core.csproj"
+              "/home/higashitaniyume/ClassicByte/Workspace/Github/ClassicByte.Valency.PackageManager/ClassicByte.Valency.PackageManager.Core/ClassicByte.Valency.PackageManager.Core.csproj": {
+                "projectPath": "/home/higashitaniyume/ClassicByte/Workspace/Github/ClassicByte.Valency.PackageManager/ClassicByte.Valency.PackageManager.Core/ClassicByte.Valency.PackageManager.Core.csproj"
               }
             }
           }
@@ -134,7 +134,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
