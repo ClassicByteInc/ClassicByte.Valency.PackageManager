@@ -1,6 +1,4 @@
 #nullable disable
-using System.Runtime.CompilerServices;
-using Microsoft.Win32;
 using Version = ClassicByte.Valency.PackageManager.Core.Version;
 namespace ClassicByte.Valency.PackageManager;
 
