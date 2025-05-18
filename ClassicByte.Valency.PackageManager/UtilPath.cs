@@ -18,4 +18,8 @@ public static class UtilPath
     public static DirectoryInfo PackagesDir => Directory.CreateDirectory(Path.Combine(Workspace.FullName, "packages"));
 
     public static FileInfo AppConfig => new FileInfo(Path.Combine(ConfigDir.FullName,"app.config"));
+
+    public static FileInfo SourceList => new FileInfo(Path.Combine(ConfigDir.FullName,"sources.xml"));
+
+    public static FileInfo PackageList => new FileInfo(Path.Combine(ConfigDir.FullName,"packages.xml"));
 }

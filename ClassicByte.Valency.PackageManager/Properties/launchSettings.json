@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ClassicByte.Valency.PackageManager": {
+      "commandName": "Project",
+      "commandLineArgs": "install -i 145"
+    }
+  }
+}
