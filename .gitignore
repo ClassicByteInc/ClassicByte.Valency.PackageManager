@@ -403,3 +403,11 @@ FodyWeavers.xsd
 ./obj/
 /ClassicByte.Valency.PackageManager/obj/
 /ClassicByte.Valency.PackageManager.Core/obj/
+ClassicByte.Valency.PackageManager/obj/ClassicByte.Valency.PackageManager.csproj.nuget.dgspec.json
+ClassicByte.Valency.PackageManager/obj/ClassicByte.Valency.PackageManager.csproj.nuget.g.props
+ClassicByte.Valency.PackageManager/obj/project.assets.json
+ClassicByte.Valency.PackageManager/obj/project.nuget.cache
+ClassicByte.Valency.PackageManager.Core/obj/ClassicByte.Valency.PackageManager.Core.csproj.nuget.dgspec.json
+ClassicByte.Valency.PackageManager.Core/obj/ClassicByte.Valency.PackageManager.Core.csproj.nuget.g.props
+ClassicByte.Valency.PackageManager.Core/obj/project.assets.json
+ClassicByte.Valency.PackageManager.Core/obj/project.nuget.cache

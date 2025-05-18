@@ -62,7 +62,7 @@ public class MainCore
     /// <summary>
     /// 当前某个操作要用的目录。
     /// </summary>
-    public string Dictionary { get; set; } = "";
+    public string DirectoryEx { get; set; } = "";
 
     public bool ShowLogoFlag { get; set; } = true;
 
@@ -159,7 +159,7 @@ public class MainCore
         PackageFileUri = (GetSwitchValue("--package") == "") ? GetSwitchValue("--package") : GetSwitchValue("-p");
         VerboseFlag = Args.Contains("--verbose");
         HelpFlag = Args.Contains("--help");
-        Dictionary = (GetSwitchValue("--directory") == "") ? GetSwitchValue("--directory") : GetSwitchValue("-d");
+        DirectoryEx = (GetSwitchValue("--directory") == "") ? GetSwitchValue("--directory") : GetSwitchValue("-d");
     }
 
     /// <summary>
@@ -267,7 +267,9 @@ public class MainCore
     /// </summary>
     public void Download()
     {
-
+        var savePath = this.DirectoryEx;
+        var url = (GetSwitchValue("--url") == "") ? GetSwitchValue("--url") : GetSwitchValue("-u");
+        ClassicByte.Valency.PackageManager.MultiThreadDownloader.DownloadFile(url,savePath,64);
     }
 
     /// <summary>
