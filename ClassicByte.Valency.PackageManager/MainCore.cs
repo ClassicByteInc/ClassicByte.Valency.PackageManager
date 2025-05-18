@@ -1,4 +1,5 @@
 #nullable disable
+using CommandLine;
 using Version = ClassicByte.Valency.PackageManager.Core.Version;
 namespace ClassicByte.Valency.PackageManager;
 
@@ -20,9 +21,11 @@ public class MainCore
         */
     #region 
 
+    [Option('i',"id",Required =false,HelpText = "当前操作所指定的包的ID")]
     ///<summary>
     /// 当前操作所指定的包的ID
     /// </summary>
+    /// 
     public static string ID { get; set; } = "";
 
     /// <summary>
