@@ -11,7 +11,7 @@ namespace ClassicByte.Valency.PackageManager
 		public List<Source> LocalSources
 		{
 			get
-				{
+			{
 				if (!UtilPath.SourceList.Exists)
 				{
 #if DEBUG

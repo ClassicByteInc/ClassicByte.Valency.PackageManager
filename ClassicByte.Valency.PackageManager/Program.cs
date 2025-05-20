@@ -2,8 +2,8 @@
 
 public class Program
 {
-    static void Main(string[] args)
-    {
-        new MainCore([.. args]).Run();
-    }
+	static void Main(string[] args)
+	{
+		new MainCore([.. args]).Run();
+	}
 }

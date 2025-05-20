@@ -6,6 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <LangVersion>13.0</LangVersion>
     <Nullable>enable</Nullable>
+    <AssemblyName>vpm</AssemblyName>
   </PropertyGroup>
 
   <ItemGroup>
